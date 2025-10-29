@@ -1,0 +1,39 @@
+# Nmap 7.94SVN scan initiated Mon Oct  6 13:56:01 2025 as: nmap -vv -oN /home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/XML/escaneo_172.20.10.2_28_wifi.txt -oX /home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/escaneo_172.20.10.2_28_wifi.txt 172.20.10.2/28
+Nmap scan report for 172.20.10.0 [host down, received no-response]
+Nmap scan report for 172.20.10.3 [host down, received no-response]
+Nmap scan report for 172.20.10.4 [host down, received no-response]
+Nmap scan report for 172.20.10.5 [host down, received no-response]
+Nmap scan report for 172.20.10.6 [host down, received no-response]
+Nmap scan report for 172.20.10.7 [host down, received no-response]
+Nmap scan report for 172.20.10.8 [host down, received no-response]
+Nmap scan report for 172.20.10.9 [host down, received no-response]
+Nmap scan report for 172.20.10.10 [host down, received no-response]
+Nmap scan report for 172.20.10.11 [host down, received no-response]
+Nmap scan report for 172.20.10.12 [host down, received no-response]
+Nmap scan report for 172.20.10.13 [host down, received no-response]
+Nmap scan report for 172.20.10.14 [host down, received no-response]
+Nmap scan report for 172.20.10.15 [host down, received no-response]
+Nmap scan report for 172.20.10.1
+Host is up, received arp-response (0.0050s latency).
+Scanned at 2025-10-06 13:56:02 -05 for 1s
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE     REASON
+21/tcp    open  ftp         syn-ack ttl 64
+53/tcp    open  domain      syn-ack ttl 64
+49152/tcp open  unknown     syn-ack ttl 64
+62078/tcp open  iphone-sync syn-ack ttl 64
+MAC Address: BA:22:0C:47:49:64 (Unknown)
+
+Nmap scan report for 172.20.10.2
+Host is up, received localhost-response (0.0000040s latency).
+Scanned at 2025-10-06 13:56:03 -05 for 0s
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE    REASON
+22/tcp   open  ssh        syn-ack ttl 64
+53/tcp   open  domain     syn-ack ttl 64
+81/tcp   open  hosts2-ns  syn-ack ttl 64
+7070/tcp open  realserver syn-ack ttl 64
+9876/tcp open  sd         syn-ack ttl 64
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Mon Oct  6 13:56:03 2025 -- 16 IP addresses (2 hosts up) scanned in 1.73 seconds

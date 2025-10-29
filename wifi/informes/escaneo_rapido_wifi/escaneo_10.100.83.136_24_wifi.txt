@@ -1,0 +1,352 @@
+# Nmap 7.94SVN scan initiated Tue Oct  7 20:31:31 2025 as: nmap -vv -oN /home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/escaneo_10.100.83.136_24_wifi.txt -oX /home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/XML/escaneo_10.100.83.136_24_wifi.xml 10.100.83.136/24
+Nmap scan report for 10.100.83.0 [host down, received no-response]
+Nmap scan report for 10.100.83.2 [host down, received no-response]
+Nmap scan report for 10.100.83.3 [host down, received no-response]
+Nmap scan report for 10.100.83.4 [host down, received no-response]
+Nmap scan report for 10.100.83.5 [host down, received no-response]
+Nmap scan report for 10.100.83.6 [host down, received no-response]
+Nmap scan report for 10.100.83.7 [host down, received no-response]
+Nmap scan report for 10.100.83.8 [host down, received no-response]
+Nmap scan report for 10.100.83.9 [host down, received no-response]
+Nmap scan report for 10.100.83.10 [host down, received no-response]
+Nmap scan report for 10.100.83.11 [host down, received no-response]
+Nmap scan report for 10.100.83.12 [host down, received no-response]
+Nmap scan report for 10.100.83.13 [host down, received no-response]
+Nmap scan report for 10.100.83.14 [host down, received no-response]
+Nmap scan report for 10.100.83.15 [host down, received no-response]
+Nmap scan report for 10.100.83.17 [host down, received no-response]
+Nmap scan report for 10.100.83.20 [host down, received no-response]
+Nmap scan report for 10.100.83.21 [host down, received no-response]
+Nmap scan report for 10.100.83.22 [host down, received no-response]
+Nmap scan report for 10.100.83.23 [host down, received no-response]
+Nmap scan report for 10.100.83.24 [host down, received no-response]
+Nmap scan report for 10.100.83.25 [host down, received no-response]
+Nmap scan report for 10.100.83.28 [host down, received no-response]
+Nmap scan report for 10.100.83.29 [host down, received no-response]
+Nmap scan report for 10.100.83.30 [host down, received no-response]
+Nmap scan report for 10.100.83.31 [host down, received no-response]
+Nmap scan report for 10.100.83.32 [host down, received no-response]
+Nmap scan report for 10.100.83.34 [host down, received no-response]
+Nmap scan report for 10.100.83.35 [host down, received no-response]
+Nmap scan report for 10.100.83.36 [host down, received no-response]
+Nmap scan report for 10.100.83.37 [host down, received no-response]
+Nmap scan report for 10.100.83.38 [host down, received no-response]
+Nmap scan report for 10.100.83.40 [host down, received no-response]
+Nmap scan report for 10.100.83.41 [host down, received no-response]
+Nmap scan report for 10.100.83.43 [host down, received no-response]
+Nmap scan report for 10.100.83.44 [host down, received no-response]
+Nmap scan report for 10.100.83.45 [host down, received no-response]
+Nmap scan report for 10.100.83.46 [host down, received no-response]
+Nmap scan report for 10.100.83.47 [host down, received no-response]
+Nmap scan report for 10.100.83.48 [host down, received no-response]
+Nmap scan report for 10.100.83.49 [host down, received no-response]
+Nmap scan report for 10.100.83.50 [host down, received no-response]
+Nmap scan report for 10.100.83.51 [host down, received no-response]
+Nmap scan report for 10.100.83.52 [host down, received no-response]
+Nmap scan report for 10.100.83.54 [host down, received no-response]
+Nmap scan report for 10.100.83.56 [host down, received no-response]
+Nmap scan report for 10.100.83.57 [host down, received no-response]
+Nmap scan report for 10.100.83.60 [host down, received no-response]
+Nmap scan report for 10.100.83.61 [host down, received no-response]
+Nmap scan report for 10.100.83.62 [host down, received no-response]
+Nmap scan report for 10.100.83.64 [host down, received no-response]
+Nmap scan report for 10.100.83.65 [host down, received no-response]
+Nmap scan report for 10.100.83.66 [host down, received no-response]
+Nmap scan report for 10.100.83.67 [host down, received no-response]
+Nmap scan report for 10.100.83.68 [host down, received no-response]
+Nmap scan report for 10.100.83.69 [host down, received no-response]
+Nmap scan report for 10.100.83.70 [host down, received no-response]
+Nmap scan report for 10.100.83.71 [host down, received no-response]
+Nmap scan report for 10.100.83.72 [host down, received no-response]
+Nmap scan report for 10.100.83.74 [host down, received no-response]
+Nmap scan report for 10.100.83.75 [host down, received no-response]
+Nmap scan report for 10.100.83.76 [host down, received no-response]
+Nmap scan report for 10.100.83.79 [host down, received no-response]
+Nmap scan report for 10.100.83.80 [host down, received no-response]
+Nmap scan report for 10.100.83.81 [host down, received no-response]
+Nmap scan report for 10.100.83.82 [host down, received no-response]
+Nmap scan report for 10.100.83.83 [host down, received no-response]
+Nmap scan report for 10.100.83.84 [host down, received no-response]
+Nmap scan report for 10.100.83.85 [host down, received no-response]
+Nmap scan report for 10.100.83.86 [host down, received no-response]
+Nmap scan report for 10.100.83.87 [host down, received no-response]
+Nmap scan report for 10.100.83.88 [host down, received no-response]
+Nmap scan report for 10.100.83.89 [host down, received no-response]
+Nmap scan report for 10.100.83.90 [host down, received no-response]
+Nmap scan report for 10.100.83.91 [host down, received no-response]
+Nmap scan report for 10.100.83.92 [host down, received no-response]
+Nmap scan report for 10.100.83.93 [host down, received no-response]
+Nmap scan report for 10.100.83.94 [host down, received no-response]
+Nmap scan report for 10.100.83.95 [host down, received no-response]
+Nmap scan report for 10.100.83.96 [host down, received no-response]
+Nmap scan report for 10.100.83.97 [host down, received no-response]
+Nmap scan report for 10.100.83.98 [host down, received no-response]
+Nmap scan report for 10.100.83.99 [host down, received no-response]
+Nmap scan report for 10.100.83.100 [host down, received no-response]
+Nmap scan report for 10.100.83.101 [host down, received no-response]
+Nmap scan report for 10.100.83.103 [host down, received no-response]
+Nmap scan report for 10.100.83.104 [host down, received no-response]
+Nmap scan report for 10.100.83.105 [host down, received no-response]
+Nmap scan report for 10.100.83.106 [host down, received no-response]
+Nmap scan report for 10.100.83.107 [host down, received no-response]
+Nmap scan report for 10.100.83.109 [host down, received no-response]
+Nmap scan report for 10.100.83.112 [host down, received no-response]
+Nmap scan report for 10.100.83.113 [host down, received no-response]
+Nmap scan report for 10.100.83.114 [host down, received no-response]
+Nmap scan report for 10.100.83.115 [host down, received no-response]
+Nmap scan report for 10.100.83.118 [host down, received no-response]
+Nmap scan report for 10.100.83.121 [host down, received no-response]
+Nmap scan report for 10.100.83.122 [host down, received no-response]
+Nmap scan report for 10.100.83.123 [host down, received no-response]
+Nmap scan report for 10.100.83.124 [host down, received no-response]
+Nmap scan report for 10.100.83.125 [host down, received no-response]
+Nmap scan report for 10.100.83.127 [host down, received no-response]
+Nmap scan report for 10.100.83.128 [host down, received no-response]
+Nmap scan report for 10.100.83.130 [host down, received no-response]
+Nmap scan report for 10.100.83.131 [host down, received no-response]
+Nmap scan report for 10.100.83.133 [host down, received no-response]
+Nmap scan report for 10.100.83.134 [host down, received no-response]
+Nmap scan report for 10.100.83.135 [host down, received no-response]
+Nmap scan report for 10.100.83.137 [host down, received no-response]
+Nmap scan report for 10.100.83.138 [host down, received no-response]
+Nmap scan report for 10.100.83.139 [host down, received no-response]
+Nmap scan report for 10.100.83.140 [host down, received no-response]
+Nmap scan report for 10.100.83.141 [host down, received no-response]
+Nmap scan report for 10.100.83.142 [host down, received no-response]
+Nmap scan report for 10.100.83.143 [host down, received no-response]
+Nmap scan report for 10.100.83.144 [host down, received no-response]
+Nmap scan report for 10.100.83.145 [host down, received no-response]
+Nmap scan report for 10.100.83.146 [host down, received no-response]
+Nmap scan report for 10.100.83.147 [host down, received no-response]
+Nmap scan report for 10.100.83.148 [host down, received no-response]
+Nmap scan report for 10.100.83.149 [host down, received no-response]
+Nmap scan report for 10.100.83.150 [host down, received no-response]
+Nmap scan report for 10.100.83.151 [host down, received no-response]
+Nmap scan report for 10.100.83.152 [host down, received no-response]
+Nmap scan report for 10.100.83.153 [host down, received no-response]
+Nmap scan report for 10.100.83.154 [host down, received no-response]
+Nmap scan report for 10.100.83.155 [host down, received no-response]
+Nmap scan report for 10.100.83.156 [host down, received no-response]
+Nmap scan report for 10.100.83.157 [host down, received no-response]
+Nmap scan report for 10.100.83.158 [host down, received no-response]
+Nmap scan report for 10.100.83.159 [host down, received no-response]
+Nmap scan report for 10.100.83.160 [host down, received no-response]
+Nmap scan report for 10.100.83.161 [host down, received no-response]
+Nmap scan report for 10.100.83.162 [host down, received no-response]
+Nmap scan report for 10.100.83.163 [host down, received no-response]
+Nmap scan report for 10.100.83.164 [host down, received no-response]
+Nmap scan report for 10.100.83.165 [host down, received no-response]
+Nmap scan report for 10.100.83.166 [host down, received no-response]
+Nmap scan report for 10.100.83.167 [host down, received no-response]
+Nmap scan report for 10.100.83.168 [host down, received no-response]
+Nmap scan report for 10.100.83.169 [host down, received no-response]
+Nmap scan report for 10.100.83.170 [host down, received no-response]
+Nmap scan report for 10.100.83.171 [host down, received no-response]
+Nmap scan report for 10.100.83.172 [host down, received no-response]
+Nmap scan report for 10.100.83.173 [host down, received no-response]
+Nmap scan report for 10.100.83.174 [host down, received no-response]
+Nmap scan report for 10.100.83.175 [host down, received no-response]
+Nmap scan report for 10.100.83.176 [host down, received no-response]
+Nmap scan report for 10.100.83.177 [host down, received no-response]
+Nmap scan report for 10.100.83.178 [host down, received no-response]
+Nmap scan report for 10.100.83.179 [host down, received no-response]
+Nmap scan report for 10.100.83.180 [host down, received no-response]
+Nmap scan report for 10.100.83.181 [host down, received no-response]
+Nmap scan report for 10.100.83.182 [host down, received no-response]
+Nmap scan report for 10.100.83.183 [host down, received no-response]
+Nmap scan report for 10.100.83.184 [host down, received no-response]
+Nmap scan report for 10.100.83.185 [host down, received no-response]
+Nmap scan report for 10.100.83.186 [host down, received no-response]
+Nmap scan report for 10.100.83.187 [host down, received no-response]
+Nmap scan report for 10.100.83.188 [host down, received no-response]
+Nmap scan report for 10.100.83.189 [host down, received no-response]
+Nmap scan report for 10.100.83.191 [host down, received no-response]
+Nmap scan report for 10.100.83.192 [host down, received no-response]
+Nmap scan report for 10.100.83.193 [host down, received no-response]
+Nmap scan report for 10.100.83.194 [host down, received no-response]
+Nmap scan report for 10.100.83.195 [host down, received no-response]
+Nmap scan report for 10.100.83.196 [host down, received no-response]
+Nmap scan report for 10.100.83.197 [host down, received no-response]
+Nmap scan report for 10.100.83.198 [host down, received no-response]
+Nmap scan report for 10.100.83.199 [host down, received no-response]
+Nmap scan report for 10.100.83.200 [host down, received no-response]
+Nmap scan report for 10.100.83.201 [host down, received no-response]
+Nmap scan report for 10.100.83.202 [host down, received no-response]
+Nmap scan report for 10.100.83.203 [host down, received no-response]
+Nmap scan report for 10.100.83.204 [host down, received no-response]
+Nmap scan report for 10.100.83.205 [host down, received no-response]
+Nmap scan report for 10.100.83.206 [host down, received no-response]
+Nmap scan report for 10.100.83.207 [host down, received no-response]
+Nmap scan report for 10.100.83.208 [host down, received no-response]
+Nmap scan report for 10.100.83.210 [host down, received no-response]
+Nmap scan report for 10.100.83.211 [host down, received no-response]
+Nmap scan report for 10.100.83.212 [host down, received no-response]
+Nmap scan report for 10.100.83.213 [host down, received no-response]
+Nmap scan report for 10.100.83.214 [host down, received no-response]
+Nmap scan report for 10.100.83.215 [host down, received no-response]
+Nmap scan report for 10.100.83.217 [host down, received no-response]
+Nmap scan report for 10.100.83.218 [host down, received no-response]
+Nmap scan report for 10.100.83.219 [host down, received no-response]
+Nmap scan report for 10.100.83.220 [host down, received no-response]
+Nmap scan report for 10.100.83.221 [host down, received no-response]
+Nmap scan report for 10.100.83.222 [host down, received no-response]
+Nmap scan report for 10.100.83.223 [host down, received no-response]
+Nmap scan report for 10.100.83.224 [host down, received no-response]
+Nmap scan report for 10.100.83.225 [host down, received no-response]
+Nmap scan report for 10.100.83.226 [host down, received no-response]
+Nmap scan report for 10.100.83.227 [host down, received no-response]
+Nmap scan report for 10.100.83.228 [host down, received no-response]
+Nmap scan report for 10.100.83.229 [host down, received no-response]
+Nmap scan report for 10.100.83.231 [host down, received no-response]
+Nmap scan report for 10.100.83.232 [host down, received no-response]
+Nmap scan report for 10.100.83.233 [host down, received no-response]
+Nmap scan report for 10.100.83.234 [host down, received no-response]
+Nmap scan report for 10.100.83.236 [host down, received no-response]
+Nmap scan report for 10.100.83.238 [host down, received no-response]
+Nmap scan report for 10.100.83.239 [host down, received no-response]
+Nmap scan report for 10.100.83.240 [host down, received no-response]
+Nmap scan report for 10.100.83.241 [host down, received no-response]
+Nmap scan report for 10.100.83.242 [host down, received no-response]
+Nmap scan report for 10.100.83.243 [host down, received no-response]
+Nmap scan report for 10.100.83.245 [host down, received no-response]
+Nmap scan report for 10.100.83.246 [host down, received no-response]
+Nmap scan report for 10.100.83.247 [host down, received no-response]
+Nmap scan report for 10.100.83.249 [host down, received no-response]
+Nmap scan report for 10.100.83.251 [host down, received no-response]
+Nmap scan report for 10.100.83.252 [host down, received no-response]
+Nmap scan report for 10.100.83.253 [host down, received no-response]
+Nmap scan report for 10.100.83.254 [host down, received no-response]
+Nmap scan report for 10.100.83.255 [host down, received no-response]
+adjust_timeouts2: packet supposedly had rtt of 9562412 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9562412 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9768338 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9768338 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8845765 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8845765 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8096933 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8096933 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8263933 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8263933 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.59 from 0 to 5 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 10.100.83.129 from 0 to 5 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 10.100.83.132 from 0 to 5 due to 11 out of 32 dropped probes since last increase.
+Increasing send delay for 10.100.83.244 from 0 to 5 due to 14 out of 46 dropped probes since last increase.
+Increasing send delay for 10.100.83.129 from 5 to 10 due to 11 out of 26 dropped probes since last increase.
+Increasing send delay for 10.100.83.209 from 0 to 5 due to 12 out of 39 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8298007 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8298007 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.129 from 10 to 20 due to 11 out of 27 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8851347 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8851347 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.132 from 5 to 10 due to 15 out of 49 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 0 to 5 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 9267549 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9267549 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.209 from 5 to 10 due to 11 out of 26 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 9894108 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9894108 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10374608 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10374608 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8193837 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8193837 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8030691 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8030691 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.129 from 40 to 80 due to 11 out of 14 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8251913 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8251913 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.59 from 40 to 80 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 10.100.83.132 from 20 to 40 due to 11 out of 30 dropped probes since last increase.
+Increasing send delay for 10.100.83.129 from 320 to 640 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 10.100.83.209 from 20 to 40 due to 11 out of 21 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 9962918 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9962918 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.132 from 80 to 160 due to 11 out of 36 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8628920 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8628920 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.119 from 5 to 10 due to 20 out of 65 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 14359088 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 14359088 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.59 from 320 to 640 due to 11 out of 19 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8178375 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8178375 microseconds.  Ignoring time.
+Warning: 10.100.83.59 giving up on port because retransmission cap hit (10).
+Increasing send delay for 10.100.83.132 from 160 to 320 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 10.100.83.129 from 640 to 1000 due to 13 out of 43 dropped probes since last increase.
+Increasing send delay for 10.100.83.209 from 40 to 80 due to 11 out of 35 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.132 from 320 to 640 due to 11 out of 30 dropped probes since last increase.
+Increasing send delay for 10.100.83.248 from 20 to 40 due to 11 out of 28 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 10426143 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10426143 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.132 from 640 to 1000 due to 11 out of 35 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8481690 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8481690 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9612237 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9612237 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10127074 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10127074 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8588740 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8588740 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9943671 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9943671 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8886073 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8886073 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8724199 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8724199 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+Increasing send delay for 10.100.83.248 from 40 to 80 due to 11 out of 32 dropped probes since last increase.
+Increasing send delay for 10.100.83.119 from 20 to 40 due to 28 out of 92 dropped probes since last increase.
+Increasing send delay for 10.100.83.117 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.119 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8506877 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8506877 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 20367604 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 20367604 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10261033 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10261033 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9032565 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9032565 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+Increasing send delay for 10.100.83.237 from 10 to 20 due to 11 out of 12 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 53302562 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 53302562 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 51215714 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 51215714 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 48663785 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 48663785 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+adjust_timeouts2: packet supposedly had rtt of 9692631 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9692631 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9587802 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9587802 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9900484 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9900484 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.119 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 9169963 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9169963 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9804002 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9804002 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8440488 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8440488 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.248 from 80 to 160 due to 13 out of 43 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 10335201 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10335201 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10276461 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10276461 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.237 from 40 to 80 due to 14 out of 45 dropped probes since last increase.
+Increasing send delay for 10.100.83.119 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 8531809 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8531809 microseconds.  Ignoring time.
+Increasing send delay for 10.100.83.42 from 10 to 20 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 10.100.83.42 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.42 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 10.100.83.244 from 40 to 80 due to 14 out of 46 dropped probes since last increase.
+adjust_timeouts2: packet supposedly had rtt of 9763154 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9763154 microse
