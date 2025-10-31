@@ -1,7 +1,31 @@
 #!/bin/bash
 
-source "/home/rojanels/Documentos/bash/wifi/escaneo_wifi.sh"
-source "/home/rojanels/Documentos/bash/wifi/escaneo_wifi_completo.sh"
+# Resolver el directorio del script para usar rutas relativas y portables
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Detectar comando Python disponible
+if command -v python3 >/dev/null 2>&1; then
+	PY_CMD=python3
+elif command -v python >/dev/null 2>&1; then
+	PY_CMD=python
+else
+	PY_CMD=python
+fi
+
+# Sourcing de scripts relativos (basados en la estructura del repo)
+if [ -f "$SCRIPT_DIR/../wifi/escaneo_wifi.sh" ]; then
+	# shellcheck source=/dev/null
+	source "$SCRIPT_DIR/../wifi/escaneo_wifi.sh"
+else
+	echo "Aviso: no se encontró $SCRIPT_DIR/../wifi/escaneo_wifi.sh" >&2
+fi
+
+if [ -f "$SCRIPT_DIR/../wifi/escaneo_wifi_completo.sh" ]; then
+	# shellcheck source=/dev/null
+	source "$SCRIPT_DIR/../wifi/escaneo_wifi_completo.sh"
+else
+	echo "Aviso: no se encontró $SCRIPT_DIR/../wifi/escaneo_wifi_completo.sh" >&2
+fi
 
 
 
@@ -53,7 +77,8 @@ select opcion in "Auditoria en redes" "Buscador de dispositivos" "opcion 3" "sal
 
 									if [[ "$pregunta" == "1" ]]; then
 										echo "Enviando informe Rapido"
-										/home/rojanels/Documentos/bash/menu/proceso_envio/correo_escaneo_basico_v2.py
+										# Ejecutar script Python relativo al directorio del script
+										"$PY_CMD" "$SCRIPT_DIR/proceso_envio/correo_escaneo_basico_v2.py"
 										
 									elif [[ "$pregunta" == "2" ]]; then
 										echo "Informe no enviado"
@@ -88,7 +113,8 @@ select opcion in "Auditoria en redes" "Buscador de dispositivos" "opcion 3" "sal
 
 									if [[ "$pregunta" == "1" ]]; then
 										echo "Enviando informe Rapido"
-										/home/rojanels/Documentos/bash/menu/proceso_envio/correo_escaneo_agresivo_v6.py
+										# Ejecutar script Python relativo al directorio del script
+										"$PY_CMD" "$SCRIPT_DIR/proceso_envio/correo_escaneo_agresivo_v6.py"
 										
 									elif [[ "$pregunta" == "2" ]]; then
 										echo "Informe no enviado"
