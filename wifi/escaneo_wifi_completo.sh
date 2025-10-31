@@ -16,7 +16,7 @@ function agresividad_WIFI() {
 	Datos="escaneo_${red//\//_}_Agresivo_WIFI.txt"
 	echo "Iniciando escaneo con Nmap.. "
 	echo "Guardando resultados en el documento: $Datos"
-	nmap -A -sS -O -sU -p- -T4 --reason --open --script="vuln and safe"  $ip_local -oN "/home/rojanels/Documentos/bash/wifi/informes/Escaneo_completo_wifi/$Datos" > /dev/null 2>&1 &
+	nmap -A -sS -O -sU -p- -T4 --reason --open --script="vuln and safe"  $ip_local -oN "$(dirname "$0")/informes/Escaneo_completo_wifi/$Datos" > /dev/null 2>&1 &
 	
 }
 

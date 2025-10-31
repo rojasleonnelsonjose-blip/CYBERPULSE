@@ -16,7 +16,7 @@ function escaneo_red_wifi() {
 	Datos2="escaneo_${red//\//_}_wifi.xml"
 	echo "Iniciando escaneo con Nmap.. "
 	echo "Guardando resultados en el documento: $Datos"
-	nmap  -vv $red -oN "/home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/$Datos" -oX "/home/rojanels/Documentos/bash/wifi/informes/escaneo_rapido_wifi/XML/$Datos2" > /dev/null 2>&1 &
+	nmap  -vv $red -oN "$(dirname "$0")/informes/escaneo_rapido_wifi/$Datos" -oX "$(dirname "$0")/informes/escaneo_rapido_wifi/$Datos2" > /dev/null 2>&1 &
 }
 
 

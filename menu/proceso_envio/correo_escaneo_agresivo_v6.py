@@ -4,8 +4,13 @@ from email.message import EmailMessage
 import smtplib
 import os
 
-# Carpeta donde se guardan los informes
-informe = "/home/rojanels/Documentos/bash/wifi/informes/Escaneo_completo_wifi/"
+# Ruta relativa al script: ../.. = desde menu/proceso_envio -> repositorio root
+base_dir = os.path.dirname(os.path.abspath(__file__))
+informe = os.path.normpath(os.path.join(base_dir, '..', '..', 'wifi', 'informes', 'Escaneo_completo_wifi'))
+
+# Verificar que exista el directorio de informes
+if not os.path.isdir(informe):
+    raise FileNotFoundError(f"Directorio de informes no encontrado: {informe}")
 
 # Credenciales y destinatarios
 remitente = 'rojasleonnelsonjose@gmail.com'
@@ -31,6 +36,9 @@ email["Subject"] = 'Reporte - Escaneo Rápido de Red Wifi'
 email.set_content(mensaje_base + contenido)
 
 # Enviar el correo
+# Obtener contraseña desde variable de entorno si está disponible (mejora de seguridad)
+smtp_password = os.environ.get('SMTP_APP_PASSWORD', 'csfkmmgrblxqwxzn')
+
 with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
-    smtp.login(remitente, "csfkmmgrblxqwxzn")  # contraseña de aplicación
+    smtp.login(remitente, smtp_password)
     smtp.sendmail(remitente, destinatarios, email.as_string())
