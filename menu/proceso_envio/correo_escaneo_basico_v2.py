@@ -38,7 +38,7 @@ email.set_content(mensaje_base + contenido)
 
 # Enviar el correo
 # Leer contraseña desde variable de entorno si está disponible (más seguro)
-smtp_password = os.environ.get('SMTP_APP_PASSWORD', 'csfkmmgrblxqwxzn')
+smtp_password = os.environ.get('SMTP_APP_PASSWORD', 'jualpulbnvmmvmkn')
 
 with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
     smtp.login(remitente, smtp_password)
