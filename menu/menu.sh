@@ -71,7 +71,7 @@ select opcion in "Auditoria en redes" "Buscador de dispositivos" "opcion 3" "sal
 									echo "=La informacion recolectada en este escaneo mostrara todos los dispositivos conectados en la red="
 									echo "=identificando los puertos abiertos de cada dispositivo.                                        ="
 									echo "================================================================================================="
-									sleep 60
+									sleep 6
 
 									read -p "Desea enviar el informe por correo (1 = si/ 2= no):" pregunta
 
